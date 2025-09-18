@@ -1,5 +1,7 @@
 # Решение задач из курса "Практика языка C"
+
 Ссылка на курс: https://www.youtube.com/playlist?list=PL3BR09unfgchRxdDws74aY4mlSk9eYGEs
+
 Ссылка на задачи: https://contest.yandex.ru/contest/66459/problems/
 
 # Задачи
