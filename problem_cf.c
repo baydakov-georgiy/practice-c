@@ -33,5 +33,6 @@ int main() {
     assert(res == 2);
     con_frac(x, y);
     //printf("%llu\n", g);
+
     return 0;
 }
